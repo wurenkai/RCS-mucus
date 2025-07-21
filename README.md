@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">RCS-mucus</h1>
+  <h1 align="center">RCS-mucus-and-Br-mucus-dataset</h1>
   <p align="center">
     Renkai Wu, LiDi Zhang, Guochen Ning, Fang Chen, Qing Chang*, Jiao Liu*
   </p>
