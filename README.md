@@ -8,6 +8,7 @@
       2. Department of Critical Care Medicine, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine</br>
       3. School of Clinical Medicine, Tsinghua University</br>
       4. The Innovation Center, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine</br>
+      5. School of Biomedical Engineering and the Institute of Medical Robotics, Shanghai Jiao Tong University</br>
   </p>
 </p>
 
