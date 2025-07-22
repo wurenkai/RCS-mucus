@@ -13,7 +13,7 @@
 </p>
 
 
-***Note: As before, we will make our code fully available after the article is accepted. Our paper is in the review stage. Please stay tuned for further updates on our work.***
+***Note: Due to the preciousness of the dataset, as with the previous [fundus dataset](https://github.com/wurenkai/UWF-RHS-Dataset-and-MASNet) and [oral dataset](https://github.com/wurenkai/HF-UNet-and-Autooral-dataset), we will fully publish our dataset and code upon acceptance of the article. Our paper is in the review stage. Please stay tuned for updates on our progress.***
 
 **0. Main Environments.**
 - python 3.8
